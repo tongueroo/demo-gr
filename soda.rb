@@ -3,7 +3,7 @@ class Soda
     puts "making soda"
   end
 
-  def drink
+  def drink!
     puts "drinking soda"
   end
 
