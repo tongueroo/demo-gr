@@ -4,7 +4,7 @@ class Burger
   end
 
   def eat!
-    puts "eating burger"
+    puts "eating cheeseburger"
   end
 
   def apply_ketchup
