@@ -4,7 +4,7 @@ class Soda
   end
 
   def drink!
-    puts "drinking soda"
+    puts "drinking coke"
   end
 
   def refill
