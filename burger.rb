@@ -3,7 +3,7 @@ class Burger
     puts "making burger"
   end
 
-  def eat
+  def eat!
     puts "eating burger"
   end
 
