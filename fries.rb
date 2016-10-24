@@ -3,7 +3,7 @@ class Fries
     puts "making fries"
   end
 
-  def eat
+  def eat!
     puts "eating fries"
   end
 
